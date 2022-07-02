@@ -1,3 +1,8 @@
 body {
   color: #333;
 }
+
+.key {
+  width: 48px;
+  height: 48px;
+}
