@@ -2,6 +2,10 @@ body {
   color: #333;
 }
 
+.keyboard {
+  width: 240px;
+}
+
 .key {
   width: 48px;
   height: 48px;
