@@ -6,3 +6,7 @@ body {
   width: 48px;
   height: 48px;
 }
+
+.key-long {
+  width: 96px;
+}
