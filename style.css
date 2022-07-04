@@ -5,6 +5,7 @@ body {
 .screen {
   width: 199px;
   text-align: right;
+  font-size: 36px;
 }
 
 .keyboard {
